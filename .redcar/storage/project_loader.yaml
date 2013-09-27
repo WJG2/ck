@@ -1,0 +1,7 @@
+--- 
+open_files: 
+  - Gemfile
+  - config.ru
+  - config/routes.rb
+  - README
+  - README.rdoc

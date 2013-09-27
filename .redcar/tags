@@ -1,0 +1,6 @@
+1380317929
+Application	/Users/WJG2/ck/config/application.rb	  class Application 
+ApplicationController	/Users/WJG2/ck/app/controllers/application_controller.rb	class ApplicationController 
+ApplicationHelper	/Users/WJG2/ck/app/helpers/application_helper.rb	module ApplicationHelper
+Ck	/Users/WJG2/ck/config/application.rb	module Ck
+TestCase	/Users/WJG2/ck/test/test_helper.rb	class ActiveSupport::TestCase
