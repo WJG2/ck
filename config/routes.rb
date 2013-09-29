@@ -1,4 +1,5 @@
 Ck::Application.routes.draw do
+  get "welcome/hello"
   get "welcome/bammo"
   get "welcome/index"
   # The priority is based upon order of creation: first created -> highest priority.

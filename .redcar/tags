@@ -1,6 +1,11 @@
-1380317929
+1380489320
 Application	/Users/WJG2/ck/config/application.rb	  class Application 
 ApplicationController	/Users/WJG2/ck/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	/Users/WJG2/ck/app/helpers/application_helper.rb	module ApplicationHelper
 Ck	/Users/WJG2/ck/config/application.rb	module Ck
 TestCase	/Users/WJG2/ck/test/test_helper.rb	class ActiveSupport::TestCase
+WelcomeController	/Users/WJG2/ck/app/controllers/welcome_controller.rb	class WelcomeController 
+WelcomeControllerTest	/Users/WJG2/ck/test/controllers/welcome_controller_test.rb	class WelcomeControllerTest 
+WelcomeHelper	/Users/WJG2/ck/app/helpers/welcome_helper.rb	module WelcomeHelper
+WelcomeHelperTest	/Users/WJG2/ck/test/helpers/welcome_helper_test.rb	class WelcomeHelperTest 
+hello	/Users/WJG2/ck/app/controllers/welcome_controller.rb	  def hello
