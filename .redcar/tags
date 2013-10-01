@@ -1,4 +1,4 @@
-1380492964
+1380588213
 Application	/Users/WJG2/ck/config/application.rb	  class Application 
 ApplicationController	/Users/WJG2/ck/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	/Users/WJG2/ck/app/helpers/application_helper.rb	module ApplicationHelper
